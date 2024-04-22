@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seating_arrangement-dynamic1/seating-arrangement.iml" filepath="$PROJECT_DIR$/seating_arrangement-dynamic1/seating-arrangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/seating_arrangement-dynamic1.iml" filepath="$PROJECT_DIR$/.idea/seating_arrangement-dynamic1.iml" />
+    </modules>
+  </component>
+</project>
